@@ -2,8 +2,9 @@
 
 ## WebScapping
 
-•	[Tweet Search](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Pesquisando%20Tweets.ipynb). Podemos pesquisar tweets com o API tweepy. (Pesquisando Tweets)
-•	Scrapping tweets com API Streaming. Com essa funcionalidade podemos obter tweets em tempo real buscando por determinado assunto. Pode ser utilizado para análise de sentimento. (Tweets em streaming)
+•	[Tweet Search](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Pesquisando%20Tweets.ipynb). Podemos pesquisar tweets com o API tweepy.
+
+•	[Scrapping tweets](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Tweets%20em%20streaming.ipynb) com API Streaming. Com essa funcionalidade podemos obter tweets em tempo real buscando por determinado assunto. Pode ser utilizado para análise de sentimento. (Tweets em streaming)
 
 ## Regressão Linear
 
