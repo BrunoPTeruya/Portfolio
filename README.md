@@ -18,7 +18,6 @@ Seleção de Variáveis
 ## EDA
 
 •	[Combustíveis](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Pre%C3%A7os%20de%20combust%C3%ADveis.ipynb). Conjunto de dados oriundo da ANP. Trás os valores de venda nos postos, a cidade, região e a bandeira.
-Tratamento de dados
 
 ## Tratamento de dados
 
