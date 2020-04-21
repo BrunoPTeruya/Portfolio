@@ -8,7 +8,7 @@
 
 ## Regressão Linear
 
-•	[Aluguel em SP](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Aluguel%20em%20SP.ipynb). Nessa base temos características de imóveis e o valor total a ser gasto mensalmente
+•	[Aluguel em SP](https://github.com/BrunoPTeruya/Portfolio/blob/master/Aluguel%20em%20SP.ipynb). Nessa base temos características de imóveis e o valor total a ser gasto mensalmente
 
 ![](Images/area.PNG)
 
