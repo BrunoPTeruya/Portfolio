@@ -26,4 +26,6 @@
 
 •	[Diabetes](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Diabetes%20Pima.ipynb). Nessa base tentamos prever casos de diabetes de acordo com as características dos pacientes. São selecionadas as principais colunas e aplicados modelos de machine learning
 
+![](BrunoPTeruya/Portfolio/Capturar.PNG)
+
 •	[Cancelamento de Cartão de Crédito](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Churn.ipynb). Queremos saber quais clientes irão cancelar o cartão de crédito
