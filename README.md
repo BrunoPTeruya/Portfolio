@@ -24,7 +24,7 @@
 
 ## Classificação
 
-•	[Diabetes](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Diabetes%20Pima.ipynb). Nessa base tentamos prever casos de diabetes de acordo com as características dos pacientes. São selecionadas as principais colunas e aplicados modelos de machine learning
+•	[Diabetes]https://github.com/BrunoPTeruya/Portfolio/blob/master/Diabetes%20Pima.ipynb). Nessa base tentamos prever casos de diabetes de acordo com as características dos pacientes. São selecionadas as principais colunas e aplicados modelos de machine learning
 
 ![](Images/Capturar.PNG)
 
