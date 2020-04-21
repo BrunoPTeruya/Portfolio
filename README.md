@@ -10,6 +10,8 @@
 
 •	[Aluguel em SP](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Aluguel%20em%20SP.ipynb). Nessa base temos características de imóveis e o valor total a ser gasto mensalmente
 
+![](Images/area.PNG)
+
 •	[Fármaco](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Pharma.ipynb). Essa base apresenta vendas de remédios no ano de 2015. A regressão é para prever valores de Revenue.
 
 •	[Otto](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Otto.ipynb). A base possui 93 parâmetros e o target. O objetivo foi selecionar e reduzir a quantidade desses parâmetros usando Boruta, Chi2, RFE, Random Forest e Variance Threshold.
