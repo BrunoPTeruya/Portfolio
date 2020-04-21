@@ -28,6 +28,6 @@
 
 ![](Images/Capturar.PNG)
 
-•	[Cancelamento de Cartão de Crédito](https://github.com/BrunoPTeruya/Projetos-Data-Science/blob/master/Churn.ipynb). Queremos saber quais clientes irão cancelar o cartão de crédito
+•	[Cancelamento de Cartão de Crédito](https://github.com/BrunoPTeruya/Portfolio/blob/master/Churn.ipynb). Queremos saber quais clientes irão cancelar o cartão de crédito
 
 ![](Images/meses%20desenpregado.PNG)
