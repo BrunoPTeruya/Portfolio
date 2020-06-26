@@ -32,6 +32,6 @@
 
 ![](Images/Capturar.PNG)
 
-•	[Cancelamento de Cartão de Crédito](https://nbviewer.jupyter.org/github/BrunoPTeruya/Portfolio/blob/master/Churn.ipynb). Queremos saber quais clientes irão cancelar o cartão de crédito
+•	[Cancelamento de Cartão de Crédito](https://github.com/BrunoPTeruya/Portfolio/blob/master/Cancelamento%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito.ipynb). Queremos saber quais clientes irão cancelar o cartão de crédito
 
 ![](Images/meses%20desenpregado.PNG)
