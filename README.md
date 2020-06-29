@@ -35,3 +35,5 @@
 •	[Cancelamento de Cartão de Crédito](https://nbviewer.jupyter.org/github/BrunoPTeruya/Portfolio/blob/master/Cancelamento%20de%20Cart%C3%A3o%20de%20Cr%C3%A9dito.ipynb). Queremos saber quais clientes irão cancelar o cartão de crédito
 
 ![](Images/meses%20desenpregado.PNG)
+
+• [Atraso de voos](https://nbviewer.jupyter.org/github/BrunoPTeruya/Portfolio/blob/master/Voos_Bruno_Teruya.ipynb). As bases são de janeiro de 2019 e 2020 com voos do EUA. A análise foi feita buscando as principais causas para os atrasos
