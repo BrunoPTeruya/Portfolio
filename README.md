@@ -28,7 +28,7 @@
 
 ## Classificação
 
-•	[Diabetes](https://nbviewer.jupyter.org/github/BrunoPTeruya/Portfolio/blob/master/Diabetes%20Pima.ipynb). Nessa base tentamos prever casos de diabetes de acordo com as características dos pacientes. São selecionadas as principais colunas e aplicados modelos de machine learning
+•	[Diabetes](https://nbviewer.jupyter.org/github/BrunoPTeruya/Portfolio/blob/master/Diabetes%20Pima.ipynb). Nessa base tentamos prever casos de diabetes de acordo com as características dos pacientes. São selecionadas as principais colunas e aplicados modelos de machine learning. https://diablit.herokuapp.com/
 
 ![](Images/Capturar.PNG)
 
