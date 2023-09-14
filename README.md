@@ -1,5 +1,9 @@
 # DS projects
 
+## Deploy Flask
+
+•	[Flask Titanic](https://github.com/BrunoPTeruya/flask_titanic)
+
 ## WebScapping
 
 •	[Tweet Search](https://nbviewer.jupyter.org/github/BrunoPTeruya/Projetos-Data-Science/blob/master/Pesquisando%20Tweets.ipynb). Podemos pesquisar tweets com o API tweepy.
